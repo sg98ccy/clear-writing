@@ -1,0 +1,6 @@
+interface:
+  display_name: "Clear Writing"
+  short_description: "Clear, concrete writing that puts the reader first"
+
+policy:
+  allow_implicit_invocation: true
