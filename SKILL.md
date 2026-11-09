@@ -31,6 +31,16 @@ Choose the principles that address the actual writing problem.
 
 For practical examples of these choices, consult [references/examples.md](references/examples.md) when useful. The examples illustrate judgement rather than a required writing format.
 
+## Use visuals to make ideas easier to grasp
+
+Use visuals as an important part of clear communication. A well-chosen image, diagram, video, or animation can convey a relationship, process, or change more directly than a long passage of text. Consider visual media when it would help the reader form an accurate mental picture or understand how something works.
+
+- Source visuals flexibly: use suitable online material, reuse or adapt existing assets, create original visuals with the available tools, or combine these approaches. Choose what best serves the reader and the explanation, while respecting applicable usage rights and attribution.
+- Choose a medium suited to the idea and the requested format. For example, an annotated image can clarify where things are, a diagram can show how they relate, a video can demonstrate an action, and an animation can reveal change over time. These are examples, not fixed assignments or a requirement to use every medium.
+- Keep each visual focused on the point it explains. Use nearby labels, a caption, or a brief explanation to connect it to the message. Preserve accuracy, provenance, and any important uncertainty; distinguish an illustrative example from observed evidence.
+- Make the essential meaning available to people who cannot see, hear, or comfortably follow the media. Use appropriate text alternatives, captions, transcripts, or descriptions, and provide suitable playback control or a static alternative when motion would otherwise make understanding difficult.
+- Match the work to the deliverable and available tools. Create or suggest a visual when it offers a useful explanation; text alone can be enough for a simple point. There is no required number of visuals or text-to-image ratio. If a proposed visual has not been produced, describe what it should communicate without implying that it already exists.
+
 ## Preserve meaning and respect the audience
 
 - Keep the author's intent, requested voice, level of formality, and factual scope. Clear writing can remain academic, technical, warm, or creative. It should not become patronizing or falsely certain.
@@ -53,3 +63,5 @@ These sources support the guidance. Their domain-specific conventions and numeri
 - [W3C WAI: Use Clear and Understandable Content](https://www.w3.org/WAI/WCAG2/supplemental/objectives/o3-clear-content/) supports understandable language, clear references, and manageable blocks of information. This is supplemental cognitive-accessibility guidance, not a claim that following this skill establishes WCAG conformance.
 - [GOV.UK: Use clear language](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/writing-guidelines/clear-language/) supports familiar wording and explaining necessary technical language. Its specific government publishing conventions are contextual.
 - [CDC Clear Communication Index](https://www.cdc.gov/ccindex/widget.html) supports audience-focused messages, useful information order, and avoiding overload. This skill adapts those general principles; it does not require applying a health-communication score to unrelated prose.
+
+- [W3C WAI: Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/) provides guidance on captions, transcripts, and descriptions when those media are used. Apply the parts relevant to the actual content and audience.

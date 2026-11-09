@@ -47,3 +47,10 @@ If the system actually knows the cause and recovery step, a more useful message 
 > The destination folder is read-only. Choose a writable folder, then export again.
 
 The longer version helps the reader act. Use it only when those facts are known; clarity does not justify guessing the cause or promising a recovery that has not been established.
+
+
+## Choose a visual that carries the explanation
+
+For an explanation of which route sections receive limited sunlight, an annotated route image could show the relevant locations alongside a short caption. If the important idea is how those conditions change during the day, a short animation or video could make the sequence easier to follow.
+
+Choose the visual according to the information being explained. Keep important labels and timing understandable, and provide a text description or suitable static view where useful. Use real data when making factual claims, or clearly label a constructed illustration. These are proposed examples; no image, video, or animation is included in this reference.
