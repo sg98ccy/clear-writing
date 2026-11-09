@@ -1,6 +1,6 @@
 # Clear Writing
 
-Help readers grasp the main point on first reading, picture what you mean, and take in detail in a useful order.
+Help readers grasp the main point on first reading, picture what you mean, and follow how the explanation develops.
 
 This agent skill supports drafting, revision, and editorial review. It aims to reduce the reader's effort while preserving your meaning, voice, evidence, and important qualifications. A longer explanation can be clearer when it supplies context the reader needs.
 
@@ -10,9 +10,10 @@ This agent skill supports drafting, revision, and editorial review. It aims to r
 - Replace vague abstractions with concrete people, actions, and outcomes.
 - Introduce unfamiliar ideas in plain language before naming the technical term.
 - Organize explanations, instructions, reports, research writing, and interface text.
+- Connect paragraphs and sections, explain consequential choices, and relate findings to their meaning.
 - Use images, diagrams, video, or animation when they explain an idea more directly.
 
-The guidance adapts to the audience and format. It sets no fixed word count, reading grade, sentence length, or required number of visuals.
+The guidance adapts to the audience and format. It sets no fixed narrative template, word count, reading grade, sentence length, or required number of examples or visuals. Research-writing examples show how context, rationale, and continuity can work together without prescribing a paper structure.
 
 ## Use with your AI agent
 

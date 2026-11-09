@@ -1,6 +1,6 @@
 # Clear-writing examples
 
-These are constructed examples. The alternatives illustrate choices, not stock phrases to insert into every document.
+These examples illustrate editorial choices, not stock phrases to insert into every document. Most are constructed; the SheetFrame example adapts a research explanation to show how the principles work together.
 
 ## Make an action easy to picture
 
@@ -48,6 +48,22 @@ If the system actually knows the cause and recovery step, a more useful message 
 
 The longer version helps the reader act. Use it only when those facts are known; clarity does not justify guessing the cause or promising a recovery that has not been established.
 
+
+## Connect context, rationale, and the developing argument
+
+This illustrative explanation is adapted from SheetFrame, an AI-assisted spreadsheet authoring system. It shows how a technical choice can follow from an interaction need.
+
+A feature inventory leaves readers to infer the connections:
+
+> SheetFrame has an editable workbook representation, a preview, direct editing, and version history.
+
+A connected explanation provides those relationships:
+
+> AI assistants can create workbooks, but users still need to check formulas and correct the results. A user's correction also needs to remain available when the AI makes a later change. SheetFrame therefore keeps workbook contents in an editable source that users and AI can both update. The preview shows the workbook produced from that source, and later requests use the latest saved version. Users can correct a cell and continue asking the AI for changes without restating the correction.
+
+The additional context explains why the shared source matters and how the parts work together. An implementation section can then explain how the source produces the preview and export. An evaluation can return to whether users complete revisions and retain correct content, and a discussion can explain what the findings support or leave unresolved.
+
+The paper can follow the same corrected cell through later requests and version review, giving readers a familiar example as the explanation develops. This is an option for continuity, not a requirement to use one example throughout every document. The example does not establish an empirical benefit or prescribe SheetFrame's design for other systems.
 
 ## Choose a visual that carries the explanation
 

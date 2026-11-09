@@ -1,67 +1,64 @@
 ---
 name: clear-writing
-description: Draft, revise, and review prose so readers can understand the main point on first reading and absorb detail without unnecessary effort. Use for explanations, instructions, interface copy, and professional or research writing, especially when text is dense or abstract. Preserve meaning, voice, and required format; a mechanical spelling fix does not require a broader rewrite.
+description: Draft, revise, and review prose for clear first reading, sufficient context, and coherent flow. Use for explanations, instructions, interface copy, and professional or research writing when wording or reasoning is hard to follow. A mechanical spelling fix does not need a broader rewrite.
 ---
 
 # Clear Writing
 
-Write for a person trying to understand something. Prioritize a clear first reading, a concrete mental picture, and a manageable flow of information. The reader should not have to reconstruct the main message from scattered details or hold many unexplained ideas in mind at once.
+Help readers build understanding as they read: establish the situation, explain what happens and why, and connect important points to the larger message. Concise means providing the detail readers need without unnecessary effort; clarity may require adding context or explanation.
 
-These are flexible design principles, not a compulsory template. Concise means using the detail the reader needs without unnecessary work; it does not mean producing the fewest possible words. Keep the explanation, evidence, examples, and qualifications needed for accurate understanding.
+These are flexible editorial principles. Choose what serves the audience, purpose, and format; they do not prescribe a fixed narrative, section order, sentence length, reading grade, or number of examples or visuals.
 
-## Start with the reader's purpose
+## Establish context and purpose
 
-Use the brief and available context to identify who is reading, what they already know, and what they need to understand, decide, or do. Infer what is reasonably clear; ask only when the missing information would materially change the writing. A simple request does not need an audience questionnaire or a research exercise.
+Use the brief and available context to identify what readers already know and what they need to understand, decide, or do. Give them enough context to picture the situation, recognise the relevant goal or difficulty, and understand why it matters. Infer what is reasonably clear; ask only when missing information would materially change the writing.
 
-Make the central message easy to find. For ordinary explanatory or practical writing, put the answer, result, or requested action early, then provide the context needed to interpret it. Follow a required genre or structure when it serves the reader; a narrative, abstract, or formal document may need a different opening.
+Make the central message easy to find. A practical answer may belong first; a narrative or research argument may need background before its conclusion. Follow the requested genre and structure where they serve the reader.
 
-## Help the reader build understanding
+## Make explanations concrete
 
-Choose the principles that address the actual writing problem.
+- Name the relevant people, objects, actions, and outcomes. Prefer direct actors and verbs when they clarify responsibility; passive voice can be appropriate too.
+- Explain an unfamiliar action or mechanism before introducing its specialised name, in parentheses when useful. Retain technical terms familiar to the intended reader, and use consistent names and clear references throughout.
+- Introduce details in the order needed to understand them. Develop manageable, connected points; separate unrelated ideas without turning the prose into disconnected short sentences.
+- Remove filler, duplicated introductions, and repeated caveats. Keep explanations, examples, and qualifications whose removal would make readers guess or misunderstand. Place optional depth after the essentials while keeping decision-relevant information visible.
 
-| Principle | How to apply it |
-| --- | --- |
-| Familiar, precise language | Prefer words the intended reader understands. For an unfamiliar idea, explain the concrete action or effect before introducing its professional name, in parentheses when useful. Keep established technical terms when they are the clearest language for that audience. |
-| A concrete mental picture | Name the relevant people, objects, actions, and outcomes. Explain what changes, how, and why it matters. Replace vague abstractions with something the reader can picture or relate to; a brief example can help more than another definition. Do not invent facts or product behavior to make an explanation vivid. |
-| Manageable units | Develop one coherent point at a time, with enough context to understand it. Split a passage when it mixes unrelated decisions or too many conditions. Keep related information together; a series of disconnected short sentences can be harder to understand than connected prose. |
-| Details in a useful order | Establish the essential idea, then explain its parts or consequences. Place optional depth after the essentials or behind an appropriate link or disclosure. Keep information needed for a decision, including material limitations, visible where it is needed. |
-| Explicit relationships | Make actors and references clear. Explain whether ideas are connected by cause, contrast, sequence, or an example. Use consistent names for the same concept. Avoid making the reader repeatedly look backwards to identify what a pronoun or label means. |
-| Useful concision | Remove repeated introductions, filler, duplicated caveats, and details that do not help the reader's purpose. Preserve details whose removal would make the reader guess or misunderstand. A short explanation or well-chosen repetition can reduce total effort. |
-| Structure with a purpose | Use prose for connected reasoning, steps for a sequence, and tables for genuine comparisons. Headings, bullets, emphasis, or a visual should make the information easier to navigate or understand; they are not required decorations. Do not overwhelm the reader with every possible option merely because it is available. |
+## Maintain a coherent argument
 
-For practical examples of these choices, consult [references/examples.md](references/examples.md) when useful. The examples illustrate judgement rather than a required writing format.
+Across paragraphs and sections, keep the central question or message discernible. Each part should advance the explanation and prepare readers for what follows. Make relationships such as cause, sequence, contrast, or illustration explicit; transitions should convey the reasoning that connects points.
 
-## Use visuals to make ideas easier to grasp
+Explain the rationale for consequential choices when readers need it: what need or constraint a choice addresses, why the approach fits, and what follows from it. Use documented reasoning or mark a proposed justification as a proposal. Routine decisions need not receive separate explanations.
 
-Use visuals as an important part of clear communication. A well-chosen image, diagram, video, or animation can convey a relationship, process, or change more directly than a long passage of text. Consider visual media when it would help the reader form an accurate mental picture or understand how something works.
+A concrete example can connect later explanations to something readers already understand. Reuse it when that continuity helps, and introduce other examples when needed. Let the evidence guide the argument, including mixed findings, disagreements, and unresolved questions.
 
-- Source visuals flexibly: use suitable online material, reuse or adapt existing assets, create original visuals with the available tools, or combine these approaches. Choose what best serves the reader and the explanation, while respecting applicable usage rights and attribution.
-- Choose a medium suited to the idea and the requested format. For example, an annotated image can clarify where things are, a diagram can show how they relate, a video can demonstrate an action, and an animation can reveal change over time. These are examples, not fixed assignments or a requirement to use every medium.
-- Keep each visual focused on the point it explains. Use nearby labels, a caption, or a brief explanation to connect it to the message. Preserve accuracy, provenance, and any important uncertainty; distinguish an illustrative example from observed evidence.
-- Make the essential meaning available to people who cannot see, hear, or comfortably follow the media. Use appropriate text alternatives, captions, transcripts, or descriptions, and provide suitable playback control or a static alternative when motion would otherwise make understanding difficult.
-- Match the work to the deliverable and available tools. Create or suggest a visual when it offers a useful explanation; text alone can be enough for a simple point. There is no required number of visuals or text-to-image ratio. If a proposed visual has not been produced, describe what it should communicate without implying that it already exists.
+Connect findings to their meaning. Explain what the evidence supports, why it matters to the central question, and what implications follow at the warranted level of confidence. These connections need not follow the same pattern in every paragraph.
 
-## Preserve meaning and respect the audience
+## Use structure and visuals purposefully
 
-- Keep the author's intent, requested voice, level of formality, and factual scope. Clear writing can remain academic, technical, warm, or creative. It should not become patronizing or falsely certain.
-- Preserve relevant numbers, units, attribution, conditions, and uncertainty. Distinguish observations from interpretations or proposals. Simplifying the wording does not authorize changing a claim, research question, method, or result.
-- Prefer direct actors and actions when they clarify responsibility. Passive voice, a longer sentence, or a necessary technical term can be appropriate when it improves the explanation or fits the genre.
-- Explain unfamiliar abbreviations and terminology where readers need them. Do not interrupt expert readers with definitions of terms they already know, or replace precise terms with misleading everyday substitutes.
-- Apply the same aim in the language requested by the user. Do not mechanically impose English phrasing or idioms on another language.
-- There is no universal sentence length, paragraph size, reading grade, word count, or number of bullet points. Use the reader's task and the document's requirements to decide.
+Use prose for connected reasoning, steps for sequences, and tables for genuine comparisons. Headings and emphasis should help readers navigate the explanation.
 
-## Check the first-read experience
+Consider an image, diagram, video, or animation when it would communicate a relationship or change more directly. Choose the medium and available tools to suit the deliverable; source suitable material, reuse assets, create visuals, or combine approaches with appropriate attribution and usage rights.
 
-Before delivering, consider whether the intended reader can identify the main point, picture the situation, and understand the relationships without unnecessary rereading. Where that is difficult, clarify the subject, add a missing connection or example, or change the information order before simply cutting words.
+Keep visuals focused and connect them to the explanation through labels and captions. Preserve accuracy, provenance, and uncertainty; distinguish illustrations from observations and proposed visuals from completed artifacts. Provide text alternatives, captions, transcripts, playback controls, or static alternatives as appropriate to make the essential meaning accessible.
 
-Use a proportionate editorial review. Readability scores or a review by the author can identify possible problems, but do not prove that the audience understands the text. Distinguish editorial judgement from actual reader testing. Normally deliver the requested writing, with a brief explanation of consequential edits only when it helps; do not append a checklist of every principle.
+## Preserve meaning
+
+Keep the author's intent, voice, formality, factual scope, and requested language. Preserve relevant numbers, units, attribution, conditions, and uncertainty. Distinguish observations, interpretations, and proposals. Simplifying the wording does not authorise changing claims, research questions, methods, or results, or adding unsupported audience or purpose restrictions.
+
+## Review the reading experience
+
+Check whether readers can identify the main point, picture the situation, follow the reasoning, and understand the significance without unnecessary rereading. Where they cannot, clarify an actor or relationship, add missing context or an example, or change the order before simply cutting words.
+
+Keep review proportionate to the task. Readability scores and editorial judgement can suggest problems but do not establish reader understanding.
+
+End with a concise summary of the guidance actually used and how it shaped the writing, such as adding necessary context, connecting the rationale, or clarifying a technical term. Combine this with the normal outcome summary and notes from other skills; respect exact output formats and distinguish proposed edits from applied changes. Do not list every principle.
+
+Consult [references/examples.md](references/examples.md) when an example would clarify an editorial choice, including continuity and rationale in research writing.
 
 ## Sources and scope
 
-These sources support the guidance. Their domain-specific conventions and numerical targets are not universal requirements for every writing task.
+These sources support the guidance; their domain-specific conventions and numerical targets are not universal requirements.
 
-- [W3C WAI: Use Clear and Understandable Content](https://www.w3.org/WAI/WCAG2/supplemental/objectives/o3-clear-content/) supports understandable language, clear references, and manageable blocks of information. This is supplemental cognitive-accessibility guidance, not a claim that following this skill establishes WCAG conformance.
-- [GOV.UK: Use clear language](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/writing-guidelines/clear-language/) supports familiar wording and explaining necessary technical language. Its specific government publishing conventions are contextual.
-- [CDC Clear Communication Index](https://www.cdc.gov/ccindex/widget.html) supports audience-focused messages, useful information order, and avoiding overload. This skill adapts those general principles; it does not require applying a health-communication score to unrelated prose.
-
-- [W3C WAI: Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/) provides guidance on captions, transcripts, and descriptions when those media are used. Apply the parts relevant to the actual content and audience.
+- [W3C WAI: Use Clear and Understandable Content](https://www.w3.org/WAI/WCAG2/supplemental/objectives/o3-clear-content/) supports understandable language, clear references, and manageable information. This is supplemental guidance, not a claim of WCAG conformance.
+- [GOV.UK: Use clear language](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/writing-guidelines/clear-language/) supports familiar wording and explaining necessary technical language.
+- [CDC Clear Communication Index](https://www.cdc.gov/ccindex/widget.html) supports audience-focused messages, useful information order, and avoiding overload. Its health-communication scoring is not required for unrelated prose.
+- [W3C WAI: Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/) supports captions, transcripts, and descriptions where relevant to the media.
